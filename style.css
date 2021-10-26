@@ -16,7 +16,7 @@
 
 @media (max-width: 506px) {
 	* {
-		font-size: 3.2vw;
+		font-size: 3vw !important;
 	}
 	.farah {
 		font-size: 10px !important;
